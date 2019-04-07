@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice1</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="account">Account</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="software_developer_j_finkel_version_1_71">Software Developer: J Finkel -Version 1.71</string>
+</resources>

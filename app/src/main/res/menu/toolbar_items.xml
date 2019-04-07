@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+            <item
+                android:id="@+id/solace"
+                android:title="Solace"
+                android:icon="@drawable/ic_voice_24dp"
+                app:showAsAction="always"
+        />
+            <item
+                android:id="@+id/viewPage"
+                android:title="Page"
+                android:icon="@drawable/ic_find_page_24dp"
+                app:showAsAction="always"/>
+            <item
+                android:id="@+id/settings"
+                android:title="@string/settings"
+                android:icon="@drawable/ic_settings_24dp"
+                app:showAsAction="always"
+                />
+
+
+</menu>

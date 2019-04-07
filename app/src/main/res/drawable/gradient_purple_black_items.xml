@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Middle Transition-->
+    <item
+        android:drawable="@drawable/gradient_purple_black_1"
+        android:duration="4000"
+        />
+    <!-- Right Corner Transition -->
+    <item
+        android:drawable="@drawable/gradient_purple_black_2"
+        android:duration="4000"
+        />
+
+    <!-- Left Corner Transition -->
+    <item
+        android:drawable="@drawable/gradient_purple_black_3"
+        android:duration="4000"
+        />
+    <!-- Bottom Transition -->
+    <item
+        android:drawable="@drawable/gradient_purple_black_4"
+        android:duration="4000"
+        />
+    <!-- Top Transition -->
+    <item
+        android:drawable="@drawable/gradient_purple_black_5"
+        android:duration="4000"
+        />
+</animation-list>
